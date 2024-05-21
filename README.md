@@ -1,5 +1,7 @@
 # ✈️ 해외 여행 상품 추천사이트 - 쿠폰 발급
 
+<img src = "https://github.com/sadang-data-enginneering/TC_coupon/assets/106741517/647d569c-40d3-4b9f-91a3-fab9461956b2"/>
+
 ## 쿠폰 이벤트 요구사항
 - 이벤트 기간 내에만 발급이 가능해야 한다.
 - 유저 당 1번의 쿠폰 발급 (중복 발급 ❌)
