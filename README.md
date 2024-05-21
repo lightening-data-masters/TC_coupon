@@ -1,5 +1,6 @@
 # ✈️ 해외 여행 상품 추천사이트 - 쿠폰 발급
 
+## 쿠폰 발급 시스템 구조도
 <img src = "https://github.com/sadang-data-enginneering/TC_coupon/assets/106741517/647d569c-40d3-4b9f-91a3-fab9461956b2"/>
 
 ## 쿠폰 이벤트 요구사항
