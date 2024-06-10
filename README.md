@@ -22,19 +22,19 @@
 
 ## 📂 프로젝트 구성
 ```bash
-**coupon**
-|_ **coupon-api**
-|    |_ CouponApiApplication
-|    |_ build.gradle
-|    |_ src
-|_ **coupon-consumer**
-|    |_ CouponConsumerApplication
-|    |_ build.gradle
-|    |_ src
-|_ **oupon-core**
-|    |_ build.gradle
-|    |_ src
-|_ build.gradle
+coupon
+├── coupon-api
+│   ├── CouponApiApplication.java
+│   ├── build.gradle
+│   ├── src
+├── coupon-consumer
+│   ├── CouponConsumerApplication.java
+│   ├── build.gradle
+│   ├── src
+├── coupon-core
+│   ├── build.gradle
+│   ├── src
+├── build.gradle
 ```
 ### coupon-api
 * 사용자의 요청을 Controller를 통해 전달받는 모듈
