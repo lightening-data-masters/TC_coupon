@@ -21,6 +21,7 @@
   - 쿠폰 발급 정보 저장
 
 ## 📂 프로젝트 구성
+```bash
 **coupon**
 |_ **coupon-api**
 |    |_ CouponApiApplication
@@ -34,7 +35,7 @@
 |    |_ build.gradle
 |    |_ src
 |_ build.gradle
-
+```
 ### coupon-api
 * 사용자의 요청을 Controller를 통해 전달받는 모듈
 * Controller를 통해 전달받은 요청을 coupon-core의 asyncIssueRequestV2 메소드를 호출하여 Redis Queue에 사용자의 요청을 적재
